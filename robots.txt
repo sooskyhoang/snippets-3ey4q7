@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sooskyhoang.github.io/snippets-3ey4q7/sitemap.xml
